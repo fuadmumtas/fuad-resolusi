@@ -2,5 +2,6 @@ FUAD RESOLUSI
 - rencana 1
 - rencana 2
 - rencana 3
-- rencana 4
+- rencana 
 - rencana 5
+- rencana 6
